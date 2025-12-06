@@ -1,6 +1,9 @@
 package conditions;
 
 public class ifEsleifElseif {
+	
+	//WAP to store the marks of all subject , then print the grade: concepts you will use: var, datatype, if,elseif else
+	//Wap to find the greatest of three numbers
 
 	public static void main(String[] args) {
   
@@ -16,7 +19,7 @@ public class ifEsleifElseif {
 		{
 			System.out.println("gift a bike");
 		}
-		else if(age> 25 && age < 35)
+		else if(age> 25 && age < 35)                 //no semicolon
 		{
 			System.out.println("gift a car");
 		}
